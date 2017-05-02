@@ -1,4 +1,4 @@
-# SimpleDayLogger
+# SimpleActivityLogger
 SimpleDayLogger (ever!) is a very simple tool for windows platform to log your activities at work.
 
 
@@ -8,7 +8,7 @@ This tool can be used with windows run window (Win+R) to log your daily activiti
 
 ## What is it?
 
-__SimpleDayLogger__ consists of two very simple batch file and a text file that is used as container for log snippets
+__SimpleActivityLogger__ consists of two very simple batch file and a text file that is used as container for log snippets
 
 __log.bat__: Records the log snippet
 
