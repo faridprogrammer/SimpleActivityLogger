@@ -1,1 +1,1 @@
-start notepad++ log.txt
+start notepad log.txt
