@@ -23,6 +23,7 @@ Installing the logger is very simple. Just copy the bat files and the text file 
 
 After the copy has been successful. Place batch files in windows path. By putting the batch files to windows path you will be able to use them globally. [Check here](https://superuser.com/questions/949560/how-do-i-set-system-environment-variables-in-windows-10)
 
+__NOTE:__ viewlog.bat and log.txt should be at the same folder if you want to not change batch file source.
 
 
 ## How to record a log
