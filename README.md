@@ -19,7 +19,7 @@ __log.txt__: logs container
 
 ## How to install 
 
-Installing the logger is very simple. Just copy the bat files and the text file from the `Src` folder of repository and past them where ever you want! 
+Installing the logger is very simple. Just copy the bat files and the text file from the `Src` folder of repository and paste them where ever you want! 
 
 After the copy has been successful. Place batch files in windows path. By putting the batch files to windows path you will be able to use them globally. [Check here](https://superuser.com/questions/949560/how-do-i-set-system-environment-variables-in-windows-10)
 
